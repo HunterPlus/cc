@@ -1,0 +1,7 @@
+union node {
+    char c;
+    int x;
+    long l;
+};
+
+union node u = { 8 };
